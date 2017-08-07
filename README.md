@@ -1,4 +1,4 @@
 # gitskills
 download from remote repository
 
-1 new word in dev
+1 new word in dev,modify in master
